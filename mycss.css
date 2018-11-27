@@ -1,0 +1,21 @@
+.weather-container{
+    background-color:blueviolet;
+    text-align: center;
+    animation-timing-function: cubic-bezier(15)
+    font-family: cursive;
+    
+}
+.icon{
+    width: 10%;
+    height: auto;
+}
+.weather{
+    font-size: 22px;
+    margin: 0;
+    
+}
+.temp{
+    font-size: 60px;
+    margin: 0px;
+    font-weight: bolder;
+}
